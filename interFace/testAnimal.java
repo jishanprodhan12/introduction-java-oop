@@ -1,5 +1,5 @@
         //interface Animal
-package Interface;
+
 
 interface Animal{
     void legs();

@@ -1,7 +1,8 @@
 package abstraction;
 
-public class cat extends Animal{
-    void meow(){
-        System.out.println("meowing");
+
+public class Animal {
+    void eat(){
+        System.out.println("eating ");
     }
 }

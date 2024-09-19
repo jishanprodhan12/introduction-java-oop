@@ -1,5 +1,5 @@
         //interface to value 
-package Interface;
+
 interface myInterface {
     static int a=12;
 }

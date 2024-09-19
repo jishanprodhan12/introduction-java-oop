@@ -1,5 +1,5 @@
         //interface
-package Interface;
+
 
 interface ClassA{
 void firstMethod();

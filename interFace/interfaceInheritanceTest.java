@@ -1,6 +1,6 @@
                 //interface inheritance 
 
-package Interface;
+
 interface Sum{
     void sum();
 }
